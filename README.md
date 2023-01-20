@@ -1,2 +1,2 @@
-# Curso-em-video-Python
+Aprendendo Python
 exercícios resolvidos
