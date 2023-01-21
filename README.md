@@ -1,2 +1,3 @@
 Aprendendo Python
-exercícios resolvidos
+Estudos em Python
+
