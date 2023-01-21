@@ -1,4 +1,3 @@
-Aprendendo Python
-Exercícios resolvidos em Python
+Leraning in Python
 
 
